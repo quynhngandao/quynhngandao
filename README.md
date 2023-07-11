@@ -1,8 +1,8 @@
-### Welcome to my page 👋
+## Welcome to my page 👋
 
 <p>Hello there! </br> I'm Quynh Dao, a Fullstack Developer
 
-## 🛠  Technologies and tools learned
+#### 🛠  Technologies and tools learned
 <p>
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
@@ -24,7 +24,7 @@
 &nbsp;
 </p>
 
-## 🌱 Currently learning
+#### 🌱 Currently learning
 <p>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
 &nbsp;
@@ -35,7 +35,7 @@
 </p>
 
 
-## 👯 Connect with me
+### 👯 Connect with me
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/daoquynh29"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nguy2884@umn.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
