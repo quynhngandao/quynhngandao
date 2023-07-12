@@ -1,8 +1,8 @@
-![image](https://github.com/quynhngandao/quynhngandao/assets/114195338/9a6477fe-f6ed-4a89-9eb0-a48069fdff2d)## Welcome to my page 👋
+## Welcome to my page 👋
 
 <p>Hello there! </br> I'm Quynh Dao, a Fullstack Developer. On my free time, I like to go rock climbing 🧗🏽‍♀️ </br> I would love to get more into travelling! </br> </p>
 - ⚡ Fun fact: I have a bunny named Sr. Fluff
-<img src="https://scontent.ffcm1-1.fna.fbcdn.net/v/t1.6435-9/65306503_2545512442147205_1166533746321522688_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=WUHv_MEJMN4AX-2JT2h&_nc_ht=scontent.ffcm1-1.fna&oh=00_AfDHva6aphFzOYoro2FBH-bPTyn2aOeFF_wYHoBsby3twA&oe=64D58BCD" height="100" width="50" />
+<img src="https://scontent.ffcm1-1.fna.fbcdn.net/v/t1.6435-9/65306503_2545512442147205_1166533746321522688_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=WUHv_MEJMN4AX-2JT2h&_nc_ht=scontent.ffcm1-1.fna&oh=00_AfDHva6aphFzOYoro2FBH-bPTyn2aOeFF_wYHoBsby3twA&oe=64D58BCD" height="300" width="250" />
 
 #### 🛠  Technologies and tools learned
 <p>
