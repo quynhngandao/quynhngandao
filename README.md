@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-<p>Hello there! </br> I'm Quynh Dao, a Fullstack Developer
+<p>Hello there! </br> I'm Quynh Dao, a Fullstack Developer.
 
 #### 🛠  Technologies and tools learned
 <p>
@@ -41,7 +41,7 @@
 <a target="_blank" href="mailto:nguy2884@umn.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show_icons=true&theme=transparent)
 
 <!--
 **quynhngandao/quynhngandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
