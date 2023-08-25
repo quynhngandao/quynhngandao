@@ -40,7 +40,7 @@
 #### 👯 Connect with me
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/daoquynh29"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:nguy2884@umn.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:quynhngannguyendao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show_icons=true&theme=transparent)
