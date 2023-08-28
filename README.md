@@ -24,13 +24,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI logo" title="MUI" height="25" />
+&nbsp;
 </p>
 
 #### 🌱 Currently learning
 <p>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI logo" title="MUI" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
