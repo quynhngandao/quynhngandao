@@ -2,7 +2,8 @@
 
 <p>Hello there! </br> I'm Quynh Dao, a Full-Stack Developer. On my free time, I like to go rock climbing 🧗🏽‍♀️ </br> I would love to get more into travelling! </br> </p>
 - ⚡ Fun fact: I have a bunny named Sr. Fluff
-<img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/65315600_2545512545480528_1202937425265950720_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=LwYYB8A0RxcAX9h487x&_nc_ht=scontent-msp1-1.xx&oh=00_AfCqgnOlcy3b8NS7XsLowZfWDCYtC_EUwYx4q6VRrpulKw&oe=650210D4" height="200" width="300" />
+- ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="https://daoquynh29.imgur.com/all">animals</a>
+<img src="https://i.imgur.com/RSMHxGd.jpg" height="200" width="300" />
 
 #### 🛠  Technologies and tools learned
 <p>
