@@ -5,7 +5,7 @@
 - ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="https://daoquynh29.imgur.com/all">animals</a>
 <img src="https://i.imgur.com/RSMHxGd.jpg" height="200" width="300" />
 
-#### 🛠  Technologies and tools learned
+#### 🛠  Tech Stacks
 <p>
   <img
     src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" />
 &nbsp; -->
 
-#### Design
+#### 🎨 Design
 
   <img
     src="https://img.shields.io/badge/-CSS3-282C34?style=flat-square&logo=css3&logoColor=1572B6"
@@ -88,7 +88,7 @@
   &nbsp;
 </p>
 
-#### 🌱 Currently learning
+#### 📚 Currently learning
 <p>
   <img
     src="https://img.shields.io/badge/-MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=13aa52"
@@ -104,7 +104,44 @@
     height="25"
   />
   &nbsp;
+<img
+  src="https://img.shields.io/badge/terraform-282C34?style=for-the-badge&logo=terraform&logoColor=235835CC"
+  alt="Terraform logo"
+  title="Terraform"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
+<img
+  src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&style=for-the-badge&logoColor=fff"
+  alt="Next.js logo"
+  title="Next.js"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
+<img
+  src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=007ACC"
+  alt="Typescript logo"
+  title="Typescript"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
 </p>
+
+
+#### 💻 Projects
+<ol>
+ <li> <a href="https://github.com/quynhngandao/PLAYwME">
+    PLAYwME
+  </a></li>
+  &nbsp;
+ <li><a href="https://github.com/Genderstanding/Genderstanding">
+    Genderstanding
+  </a>
+ </li> 
+</ol>
 
 
 #### 👯 Connect with me
