@@ -54,10 +54,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" />
 &nbsp; -->
-</p> 
 
 #### 🎨 Design
-</p>
   <img
     src="https://img.shields.io/badge/-CSS3-282C34?style=flat-square&logo=css3&logoColor=1572B6"
     alt="CSS3 logo"
@@ -102,8 +100,8 @@
   &nbsp;
 </p>
 
-#### 📚 Currently learning
 <p>
+#### 📚 Currently learning
 <img
   src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=007ACC"
   alt="Typescript logo"
