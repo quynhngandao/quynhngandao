@@ -100,8 +100,9 @@
   &nbsp;
 </p>
 
-<p>
+
 #### 📚 Currently learning
+<p>
 <img
   src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=007ACC"
   alt="Typescript logo"
