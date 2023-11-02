@@ -134,6 +134,14 @@
   style="background-color: #282C34"
 /> 
 &nbsp;
+<img
+  src="https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=777BB4" 
+  alt="PHP logo"
+  title="PHP"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
 </p>
 
 
