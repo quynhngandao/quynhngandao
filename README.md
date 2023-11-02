@@ -197,7 +197,6 @@
  </li> 
 </ol>
 
-
 #### 👯 Connect with me
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/daoquynh29"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
