@@ -100,7 +100,6 @@
   &nbsp;
 </p>
 
-
 #### 📚 Currently learning
 <p>
 <img
@@ -197,7 +196,6 @@
   </a>
  </li> 
 </ol>
-
 
 #### 👯 Connect with me
 <p>
