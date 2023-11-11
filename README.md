@@ -131,7 +131,7 @@
 #### 💡 Want to learn more 
 <p>
  <img
-  src="https://img.shields.io/badge/React_Native-282C34?style=for-the-badge&logo=react&logoColor=20232A"
+  src="https://img.shields.io/badge/React_Native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB"
   alt="React Native logo"
   title="React Native"
   height="25"
@@ -147,7 +147,7 @@
 /> 
 &nbsp;
   <img
-  src="https://img.shields.io/badge/Amazon_AWS-282C34?style=for-the-badge&logo=amazon-aws&logoColor=282C34"
+  src="https://img.shields.io/badge/Amazon_AWS-282C34?style=for-the-badge&logo=amazon-aws&logoColor=white"
   alt="AWS logo"
   title="AWS"
   height="25"
