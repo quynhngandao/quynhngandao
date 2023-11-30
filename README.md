@@ -5,8 +5,8 @@
 
  ⚡ I have a bunny 🐰 named Sr. Fluff
  
- ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="https://daoquynh29.imgur.com/all">animals</a>
- 
+ ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="//imgur.com/a/oFJWVXd">animals</a>
+
  ⚡ Food is my #1 stress reliever 🍜🍱🥘
 
 <img src="https://i.imgur.com/RSMHxGd.jpg" height="200" width="300" />
