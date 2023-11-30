@@ -209,9 +209,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show&theme=dark)
 
 <!--
 **quynhngandao/quynhngandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
