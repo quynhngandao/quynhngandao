@@ -1,13 +1,21 @@
-## Welcome to my page 👋
+# Hi, I'm Quynh 👋
 
-<p>Hello there! 
-</br> I'm Quynh (Win) Dao, a Full-Stack Developer. On my free time, I like to go rock climbing 🧗🏽‍♀️ and playing pickleball 🎾 </br> I would love to get more into travelling 🌎 and hiking 🥾 </br> </p>
+#### 
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/daoquynh29"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:quynhngannguyendao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.discordapp.com/users/284940752373415936"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+
+#### Full-Stack Developer 
+ ⚡ The one thing that keeps me motivated is learning new things, could be anything  
+
+ ⚡ I like to 🧗🏽‍♀️, play 🎾, and go 🏂 with friends. I would love to get more into 🛩️ 🌎 and 🥾🚶🏻‍♀️.
  
- ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="//imgur.com/a/oFJWVXd">🐶</a>
+ ⚡ I've been a longtime foster volunteer at the Animal Humane Society. I have worked with a lot of <a href="//imgur.com/a/oFJWVXd">🐶</a>
 
- ⚡ Food is my #1 stress reliever 🍜🍱🥘
+ ⚡ I love 🍜🍱🥘
 
- ⚡ I have a bunny 🐰 named Sr. Fluff
+ ⚡ I have a 🐰 named Sr. Fluff
  
 <img src="https://i.imgur.com/RSMHxGd.jpg" height="200" width="300" />
 
@@ -187,23 +195,21 @@
 
 #### 💻 Projects
 <ol>
- <li> <a href="https://github.com/quynhngandao/PLAYwME">
+ <li> <a href="https://github.com/quynhngandao/PLAYwME" style="text-decoration: none">
     PLAYwME
   </a></li>
   &nbsp;
- <li><a href="https://github.com/Genderstanding/Genderstanding">
+ <li><a href="https://github.com/Genderstanding/Genderstanding" >
     Genderstanding
   </a>
  </li> 
 </ol>
 
-#### 👯 Connect with me
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/daoquynh29"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:quynhngannguyendao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+#### My Stats
 
- ![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&theme=transparent)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show_icons=true&theme=transparent)
 
