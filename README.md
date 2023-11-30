@@ -2,14 +2,15 @@
 
 <p>Hello there! 
 </br> I'm Quynh (Win) Dao, a Full-Stack Developer. On my free time, I like to go rock climbing 🧗🏽‍♀️ and playing pickleball 🎾 </br> I would love to get more into travelling 🌎 and hiking 🥾 </br> </p>
-
- ⚡ I have a bunny 🐰 named Sr. Fluff
  
- ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="//imgur.com/a/oFJWVXd">animals</a>
+ ⚡ I've been a volunteer at the Animal Humane Society since 2016 and have worked/fostered with a lot of <a href="//imgur.com/a/oFJWVXd">🐶</a>
 
  ⚡ Food is my #1 stress reliever 🍜🍱🥘
 
+ ⚡ I have a bunny 🐰 named Sr. Fluff
+ 
 <img src="https://i.imgur.com/RSMHxGd.jpg" height="200" width="300" />
+
 #### 🛠  Tech Stacks
 <p>
   <img
