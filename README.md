@@ -134,6 +134,14 @@
   style="background-color: #282C34"
 /> 
 &nbsp;
+   <img
+  src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&style=for-the-badge&logoColor=fff"
+  alt="Next.js logo"
+  title="Next.js"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
 </p>
 
 #### 💡 Want to learn more 
@@ -142,14 +150,6 @@
   src="https://img.shields.io/badge/React_Native-282C34?style=for-the-badge&logo=react&logoColor=61DAFB"
   alt="React Native logo"
   title="React Native"
-  height="25"
-  style="background-color: #282C34"
-/> 
-&nbsp;
-  <img
-  src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&style=for-the-badge&logoColor=fff"
-  alt="Next.js logo"
-  title="Next.js"
   height="25"
   style="background-color: #282C34"
 /> 
@@ -201,6 +201,11 @@
   &nbsp;
  <li><a href="https://github.com/Genderstanding/Genderstanding" >
     Genderstanding
+  </a>
+ </li> 
+  &nbsp;
+ <li><a href="https://github.com/Genderstanding/Genderstanding" >
+    DevDogCodeCat - HireMe
   </a>
  </li> 
 </ol>
