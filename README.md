@@ -194,21 +194,25 @@
 </p>
 
 #### 💻 Projects
-<ol>
- <li> <a href="https://github.com/quynhngandao/PLAYwME" style="text-decoration: none">
-    PLAYwME
-  </a></li>
-  &nbsp;
- <li><a href="https://github.com/Genderstanding/Genderstanding" >
-    Genderstanding
-  </a>
- </li> 
-  &nbsp;
- <li><a href="https://github.com/Genderstanding/Genderstanding" >
-    DevDogCodeCat - HireMe
-  </a>
- </li> 
-</ol>
+
+  <li>
+    <a href="https://github.com/quynhngandao/PLAYwME" style="text-decoration: none; font-weight: bold;">
+      PLAYwME
+    </a>    
+  </li>
+  <img src="https://github.com/quynhngandao/PLAYwME/blob/main/public/images/playwme.png?raw=true" style="width: 450px; height: auto;">
+  <li>
+    <a href="https://github.com/Genderstanding/Genderstanding" style="text-decoration: none; font-weight: bold;">
+      Genderstanding
+    </a>
+  </li>
+  <img src="https://github.com/Genderstanding/Genderstanding/raw/main/public/light.png" style="width: 150px; height: auto;">
+  <li>
+    <a href="https://github.com/Genderstanding/Genderstanding" style="text-decoration: none; font-weight: bold;">
+      DevDogCodeCat - HireMe
+    </a>
+  </li>
+   <img src="https://github.com/PleaseHireMeNow/Mobile-HireMe/blob/main/assets/images/hiremenow.png?raw=true" style="width: 180px; height: auto;">
 
 #### My Stats
 
