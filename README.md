@@ -3,14 +3,12 @@
 #### 
 <p>
 
-#### Full-Stack Developer 
- ⚡ The one thing that keeps me motivated is learning new things, could be anything  
+####  
+ <!-- ⚡ The one thing that keeps me motivated is learning new things, could be anything -->
 
- ⚡ I like to 🧗🏽‍♀️, play 🎾, and go 🏂 with friends. I would love to get more into 🛩️ 🌎 and 🥾🚶🏻‍♀️.
+ ⚡ I like 🧗🏽‍♀️ 🎾 🏂 🛩️ 🌎 📷 🍜
  
  ⚡ I've been a longtime foster volunteer at the Animal Humane Society. I have worked with a lot of <a href="//imgur.com/a/oFJWVXd">🐶</a>
-
- ⚡ I love 🍜🍱🥘
 
  ⚡ I have a 🐰 named Sr. Fluff
  
@@ -211,15 +209,17 @@
   </li>
    <img src="https://github.com/PleaseHireMeNow/Mobile-HireMe/blob/main/assets/images/hiremenow.png?raw=true" style="width: 180px; height: auto;">
 
-#### My Stats
-
+#### Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&theme=dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show&theme=dark)
+<img width=400 src='https://streak-stats.demolab.com?user=quynhngandao&theme=graywhite&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&theme=graywhite&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=quynhngandao&theme=graywhite&show_icons=true&hide_border=true&count_private=true' />
 
 <!--
+![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show&theme=dark)
 **quynhngandao/quynhngandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
