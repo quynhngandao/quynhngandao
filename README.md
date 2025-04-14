@@ -203,7 +203,7 @@
   </li>
   <img src="https://github.com/Genderstanding/Genderstanding/raw/main/public/light.png" style="width: 150px; height: auto;">
   <li>
-    <a href="https://github.com/Genderstanding/Genderstanding" style="text-decoration: none; font-weight: bold;">
+    <a href="https://github.com/PleaseHireMeNow" style="text-decoration: none; font-weight: bold;">
       DevDogCodeCat - HireMe
     </a>
   </li>
