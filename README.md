@@ -153,9 +153,6 @@
   style="background-color: #282C34"
 /> 
 &nbsp;
-
- https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
- 
 </p>
 
 #### 💡 Want to learn more 
