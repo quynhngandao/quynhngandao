@@ -44,6 +44,14 @@
     height="25"
   />
   &nbsp;
+ <img
+  src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=4479A1"
+  alt="Next.js logo"
+  title="Next.js"
+  height="25"
+  style="background-color: #282C34"
+ /> 
+ &nbsp;
   <img
     src="https://img.shields.io/badge/jQuery-282C34?style=for-the-badge&logo=jquery&logoColor=0769AD"
     alt="jQuery logo"
@@ -112,14 +120,14 @@
   height="25"
   style="background-color: #282C34"
 /> 
-&nbsp;
+<!-- &nbsp;
 <img
   src="https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=777BB4" 
   alt="PHP logo"
   title="PHP"
   height="25"
   style="background-color: #282C34"
-/> 
+/>  
 &nbsp;
 <img
   src="https://img.shields.io/badge/Laravel-282C34?style=for-the-badge&logo=laravel&logoColor=FF2D20" 
@@ -127,7 +135,7 @@
   title="Laravel"
   height="25"
   style="background-color: #282C34"
-/> 
+/> -->
 &nbsp;
    <img
   src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&style=for-the-badge&logoColor=fff"
@@ -137,6 +145,17 @@
   style="background-color: #282C34"
 /> 
 &nbsp;
+   <img
+  src="https://img.shields.io/badge/GraphQl-282C34?logo=graphql&style=for-the-badge&logoColor=E10098"
+  alt="Next.js logo"
+  title="Next.js"
+  height="25"
+  style="background-color: #282C34"
+/> 
+&nbsp;
+
+ https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
+ 
 </p>
 
 #### 💡 Want to learn more 
@@ -209,7 +228,11 @@
   </li>
    <img src="https://github.com/PleaseHireMeNow/Mobile-HireMe/blob/main/assets/images/hiremenow.png?raw=true" style="width: 180px; height: auto;">
 
-#### Stats
+
+## Stats
+#### 
+<p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
 
 <img width=400 src='https://streak-stats.demolab.com?user=quynhngandao&theme=graywhite&hide_border=true' />
