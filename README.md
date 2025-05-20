@@ -217,6 +217,7 @@
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=quynhngandao&theme=graywhite&show_icons=true&hide_border=true&count_private=true' />
 
 <!--
+<img width=400 src='https://streak-stats.demolab.com?user=quynhngandao&theme=graywhite&hide_border=true' />
 ![Profile Views](https://komarev.com/ghpvc/?username=quynhngandao&style=flat-square&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhngandao&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quynhngandao&show&theme=dark)
